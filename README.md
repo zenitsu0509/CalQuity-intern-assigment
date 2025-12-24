@@ -1,4 +1,4 @@
-# Intersala-2 — AI Search Chat MVP
+# CalQuity-intern-assigment
 
 This repository contains a minimal MVP for the project described as: a Perplexity-style chat frontend (Next.js) and a FastAPI backend that streams responses over SSE with RAG-based PDF search and Groq LLM integration.
 
